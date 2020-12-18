@@ -1,0 +1,28 @@
+.header {
+	height: 70px;
+}
+
+.body {
+	height: 900px
+}
+
+.icon {
+	height: 30px;
+}
+
+.rec {
+	height: 150px
+}
+
+.iframe {
+	height: 700px
+}
+
+.video {
+	height: 100px
+}
+
+.ml {
+	margin-left: 40px;
+	margin-top: 10px;
+}
